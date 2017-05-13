@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class LocalPaymentCreator implements PaymentCreator {
  
-    // hard coded account value for demo purposes
+    
     private static final String CURRENT_LOCAL_ACC = "current-local-acc";
  
 
